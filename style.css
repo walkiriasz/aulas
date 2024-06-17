@@ -4,3 +4,8 @@
 .centro{
     text-align: center;
 }
+
+.cor-solida{
+    background-color: antiquewhite;
+    color: black;
+}
